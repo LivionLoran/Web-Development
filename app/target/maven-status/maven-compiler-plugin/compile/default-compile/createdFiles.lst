@@ -1,0 +1,17 @@
+com\example\app\controller\ChangeBalance.class
+com\example\app\service\TarifService.class
+com\example\app\model\Client.class
+com\example\app\model\Tarif.class
+com\example\app\service\ClientService.class
+com\example\app\controller\MainController.class
+com\example\app\controller\ChangeTarifImpl.class
+com\example\app\controller\Registration.class
+com\example\app\service\TarifServiceImpl.class
+com\example\app\model\Guest.class
+com\example\app\service\ClientServiceImpl.class
+com\example\app\controller\AdminOffice.class
+com\example\app\repo\ClientRepo.class
+com\example\app\controller\ClientOffice.class
+com\example\app\controller\Authorization.class
+com\example\app\repo\TarifRepo.class
+com\example\app\controller\ChangeTarif.class
